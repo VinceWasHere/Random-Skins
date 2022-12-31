@@ -1,8 +1,9 @@
 # Description
-I'll be making sum random skins for any characters in RoR.
+I'll be making some random skins for any characters in RoR.
 
 FYI:
 I'm new to Blender and Unity so, do not expect crazy stuff. Hope you enjoy my hard work :)
+If you have any advise or want to report any issues with the skins, feel free to tell me - VinceWasHere#7220
 
 ## New Skins
 Just a Zenitsu skin, from the anime called Demon Slayer, for the Mercenary for the time being. It has some clipping issues but at least its playable lol
