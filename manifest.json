@@ -1,6 +1,7 @@
 {
     "name": "RandomSkins",
     "version_number": "1.0.0",
+    "website_url": "",
     "description": "For the time being, just a Zenitsu skin for Mercenary. Enjoy!",
     "dependencies": [
     "bbepis-BepInExPack-5.4.9"
