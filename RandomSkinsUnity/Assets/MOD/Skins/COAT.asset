@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: COAT
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 0
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: MercBody
+  nameTokenLocalizations:
+  - language: en
+    value: DrippySlayer
+  - language: es
+    value: TieneUnFlowKbron
+  icon:
+    createFromColors: 1
+    sprite: {fileID: 0}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 65509
+      top:
+        serializedVersion: 2
+        rgba: 5923162
+      right:
+        serializedVersion: 2
+        rgba: 65509
+      bottom:
+        serializedVersion: 2
+        rgba: 0
+    isExpanded: 1
+  unlockableName: 
+  baseSkins: []
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 4579454407841743219, guid: cf10d71f251ba634fac2286e3e256f9d, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  - mesh: {fileID: 7368963896600939820, guid: 35839f5fe18abae47bfd43cd54d7b3c2, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 4
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: 101257cf91b046446a53ec2a42869e99, type: 2}
+    defaultShadowCastingMode: 0
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: 258440c0372fa9e48a782b0c50c0915e, type: 2}
+    defaultShadowCastingMode: 0
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 4
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []

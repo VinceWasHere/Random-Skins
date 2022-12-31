@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2516476651
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3503eac3a8bb8e527480675c3f34463a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46e9d7502db8683b6fa653c67c544c7f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/MatNichirin.mat
+- Assets/SkinMods/ZenitsuMerc/Icons/COATIcon.png
+- Assets/SkinMods/ZenitsuMerc/Meshes/NICHIRIN.mesh
+- Assets/SkinMods/ZenitsuMerc/Meshes/Plane.001.mesh
+- Assets/Resources/MatZen.mat
+Dependencies: []
