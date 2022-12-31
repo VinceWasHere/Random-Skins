@@ -8,6 +8,7 @@ If you have any advise or want to report any issues with the skins, feel free to
 
 ## New Skins
 Just a Zenitsu skin, from the anime called Demon Slayer, for the Mercenary for the time being. It has some clipping issues but at least its playable lol
+
 ![](https://cdn.discordapp.com/attachments/864033991623180288/1058841952231096410/image.png) ![](https://cdn.discordapp.com/attachments/864033991623180288/1058840865277223022/35878a21-8755-4116-a415-69141a8bce94.png)
 
 ![](https://cdn.discordapp.com/attachments/864033991623180288/1058840867621843044/ad60000f-8377-4139-bd7d-98b4d5379ffd.png) ![](https://cdn.discordapp.com/attachments/864033991623180288/1058840866699096075/640940bf-2fd8-4190-b1eb-2adf5c135d92.png)
