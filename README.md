@@ -7,7 +7,7 @@ I'm new to Blender and Unity so, do not expect crazy stuff. Hope you enjoy my ha
 If you have any advise or want to report any issues with the skins, feel free to tell me - VinceWasHere#7220
 
 ## New Skins
-Just a Zenitsu skin, from the anime called Demon Slayer, for the Mercenary for the time being. It has some clipping issues but at least its playable lol
+Just a Zenitsu, from Demon Slayer, skin for the Mercenary for the time being. It has some clipping issues but at least its playable lol
 
 ![](https://cdn.discordapp.com/attachments/864033991623180288/1058841952231096410/image.png) ![](https://cdn.discordapp.com/attachments/864033991623180288/1058840865277223022/35878a21-8755-4116-a415-69141a8bce94.png)
 
