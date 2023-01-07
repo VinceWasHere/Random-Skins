@@ -1,8 +1,7 @@
 # Description
 I'll be making some random skins for any characters in RoR.
 
-FYI:
-I'm new to Blender and Unity so, do not expect crazy stuff. Hope you enjoy my hard work :)
+> FYI: I'm new to Blender and Unity so, do not expect crazy stuff. Hope you enjoy my hard work :)
 
 If you have any advice or want to report any issues with the skins, feel free to tell me - VinceWasHere#7220
 
