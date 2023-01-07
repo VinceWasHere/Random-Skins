@@ -1,9 +1,9 @@
 # Description
 I'll be making some random skins for any characters in RoR.
 
-> FYI: I'm new to Blender and Unity so, do not expect crazy stuff. Hope you enjoy my hard work :)
-
 If you have any advice or want to report any issues with the skins, feel free to tell me - VinceWasHere#7220
+
+> FYI: I'm new to Blender and Unity so, do not expect crazy stuff. Hope you enjoy my hard work :)
 
 ## New Skins
 
@@ -36,7 +36,6 @@ If you have any advice or want to report any issues with the skins, feel free to
 <summary>Zenitsu related models</summary>
 
    * Zenitsu Model: https://sketchfab.com/3d-models/demon-slayer-zenitsu-c0af6cff336c41cabc80baf40d098813
-  
    * Zenitsu Nichirin Model: https://sketchfab.com/3d-models/zenitsu-sword-46390aacd66a4bd9859a1174d5cded79
 
 </details>
