@@ -53,6 +53,11 @@ If you have any advice or want to report any issues with the skins, feel free to
 
 
 # Changelog
+**1.0.3**
+
+* Sasuke from Boruto skin added.
+
+
 **1.0.2**
 
 * Dang it, can someone tell me how to edit the description without uploading the mod as another version?
