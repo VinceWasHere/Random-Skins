@@ -33,7 +33,7 @@ If you have any advice or want to report any issues with the skins, feel free to
 
 
 # Credits
-Special thanks to the Risk Of Rain 2 Modding Comunnity for all the guides and help they give. If you wanna make your own mod and have any questions, do not hesitate to join the discord server: https://discord.com/invite/5MbXZvd
+Special thanks to the Risk Of Rain 2 Modding Comunnity for all the guides and help they give. If you want to make your own mod and have any questions, do not hesitate to join the discord server: https://discord.com/invite/5MbXZvd
 
 <details>
   <summary>Zenitsu related models</summary>
