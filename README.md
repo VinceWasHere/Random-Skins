@@ -36,7 +36,8 @@ If you have any advice or want to report any issues with the skins, feel free to
 # Credits
 <details>
 <summary>Zenitsu related models</summary>
-
+<br>
+  
    * Zenitsu Model: https://sketchfab.com/3d-models/demon-slayer-zenitsu-c0af6cff336c41cabc80baf40d098813
    * Zenitsu Nichirin Model: https://sketchfab.com/3d-models/zenitsu-sword-46390aacd66a4bd9859a1174d5cded79
 
@@ -44,8 +45,9 @@ If you have any advice or want to report any issues with the skins, feel free to
 
 
 <details>
-<summary>Zenitsu related models</summary>
-
+<summary>Sasuke related models</summary>
+<br>
+  
    * Sasuke model, it comes with his sword and other versions too: https://www.deviantart.com/mvegeta/art/Naruto-Sasuke-Uchiha-Adult-PACK-1-FOR-XPS-606408144
 
 </details>
