@@ -55,7 +55,7 @@ If you have any advice or want to report any issues with the skins, feel free to
 # Changelog
 **1.0.3**
 
-* Sasuke from Boruto skin added.
+* Sasuke from Boruto added as a skin for Mercenary.
 
 
 **1.0.2**
